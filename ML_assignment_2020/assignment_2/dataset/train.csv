@@ -1,0 +1,44 @@
+MaritalStatus,Sum - Attrition,,TotalWorkingYears,Sum - Attrition,,DistanceFromHome,Sum - Attrition,,BusinessTravel,Sum - Attrition,,OverTime,Sum - Attrition
+Divorced,22,,0,4,,1,18,,Non-Travel,10,,No,76
+Married,59,,1,28,,2,20,,Travel_Frequently,47,,Yes,96
+Single,91,,2,6,,3,12,,Travel_Rarely,115,,Total Result,172
+Total Result,172,,3,8,,4,9,,Total Result,172,,yes%,0.558139534883721
+single%,0.529069767441861,,4,9,,5,9,,tr rarely %,0.668604651162791,,,
+,,,5,12,,6,7,,,,,,
+JobRole,Sum - Attrition,,6,16,,7,5,,EducationField,Sum - Attrition,,NumCompaniesWorked,Sum - Attrition
+Healthcare Representative,8,,7,12,,8,7,,Human Resources,2,,0,19
+Human Resources,5,,8,14,,9,9,,Life Sciences,67,,1,72
+Laboratory Technician,47,,9,10,,10,8,,Marketing,25,,2,11
+Manager,5,,10,17,,11,4,,Medical,46,,3,10
+Manufacturing Director,6,,11,3,,12,5,,Other,10,,4,11
+Research Director,2,,12,4,,13,2,,Technical Degree,22,,5,12
+Research Scientist,38,,13,1,,14,4,,Total Result,172,,6,10
+Sales Executive,37,,14,2,,15,4,,max,67,,7,13
+Sales Representative,24,,15,2,,16,4,,Life Sciences%,0.38953488372093,,8,5
+Total Result,172,,16,1,,17,3,,,,,9,9
+max,47,,17,3,,18,3,,,,,Total Result,172
+Laboratory Technician%,0.273255813953488,,18,4,,19,3,,,,,max,72
+,,,19,2,,20,3,,,,,1.00%,0.418604651162791
+,,,20,1,,21,2,,,,,,
+,,,21,1,,22,4,,,,,,
+,,,22,2,,23,5,,,,,,
+,,,23,2,,24,6,,,,,,
+,,,24,3,,25,6,,,,,,
+,,,25,0,,26,2,,,,,,
+,,,26,1,,27,2,,,,,,
+,,,27,0,,28,1,,,,,,
+,,,28,0,,29,5,,,,,,
+,,,29,0,,Total Result,172,,,,,,
+,,,30,0,,"Sum(1,2,3)",50,,,,,,
+,,,31,1,,%,0.290697674418605,,,,,,
+,,,32,0,,,,,,,,,
+,,,33,1,,,,,,,,,
+,,,34,0,,,,,,,,,
+,,,35,0,,,,,,,,,
+,,,36,0,,,,,,,,,
+,,,37,0,,,,,,,,,
+,,,38,0,,,,,,,,,
+,,,40,2,,,,,,,,,
+,,,Total Result,172,,,,,,,,,
+,,,MAX,28,,,,,,,,,
+,,,1.00%,0.162790697674419,,,,,,,,,
